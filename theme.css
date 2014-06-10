@@ -1,0 +1,12 @@
+.cell {
+    width:5px;
+    height: 5px;
+    border: 1px solid black;
+}
+.snake {
+    background-color : black;
+}
+.free {}
+.cheese {
+    background-color : red;
+}
